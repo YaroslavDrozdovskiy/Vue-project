@@ -1,18 +1,11 @@
 <template>
-  <div id="app">
-    <img width="25%" src="./assets/logo.png">
-
-  </div>
+  <div id="app"></div>
 </template>
 
 <script>
-
-
 export default {
   name: "App",
-  components: {
-   
-  }
+  components: {}
 };
 </script>
 
